@@ -3,7 +3,7 @@ module.exports = {
     title: `Daniel McMahon`,
     description: `Daniel McMahon - Software Engineer, Musician & Educator`,
     author: `@dmcmahon`,
-    siteUrl: `https://daniel-mcmahon.com`,
+    siteUrl: `https://daniel-mcmahon.com`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
