@@ -1,5 +1,8 @@
 # Daniel McMahon (.com)
 
+[![code setup: GatsbyJS](https://img.shields.io/badge/setup-Gatsby_JS-blueviolet.svg)](https://github.com/gatsbyjs/gatsby)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+
 Using [Gastby JS](https://www.gatsbyjs.org/) & AWS S3 Static Site Hosting.  
 A simple landing page hosted on AWS with links to all things related to me.
 
