@@ -6,6 +6,7 @@
 Using [Gastby JS](https://www.gatsbyjs.org/) & AWS S3 Static Site Hosting.  
 A simple landing page hosted on AWS with links to all things related to me.
 
+Inspired by [Linktree](https://linktr.ee/).
 
 The minimal landing page starter comes with a few plugins installed already, but it's main focus is on staying simple and looking clean. These things are included by default:
 
