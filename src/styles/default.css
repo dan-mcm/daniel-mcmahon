@@ -71,6 +71,12 @@ mark {
 img {
   border-style: none;
 }
+img.icons {
+  filter: grayscale(60%);
+}
+img.icons:hover {
+  filter: none;
+}
 svg:not(:root) {
   overflow: hidden;
 }

@@ -1,13 +1,14 @@
 import React from "react"
 import PropTypes from "prop-types"
 import whiteHex from "../images/what-the-hex.png"
+import blackHex from "../images/what-the-hex-dark.png"
 import { COLORS } from "../styles/constants"
 
 const Footer = ({ siteTitle }) => (
   <footer
     style={{
       padding: "1rem",
-      backgroundImage: `url(${whiteHex})`
+      backgroundImage: `url(${blackHex})`
     }}
   >
     <div
@@ -23,7 +24,7 @@ const Footer = ({ siteTitle }) => (
     >
       <div style={{ color: COLORS.gray, fontWeight: 700 }}>
         <a
-          style={{ textDecoration: "none", color: COLORS.mediumBlack }}
+          style={{ textDecoration: "none", color: COLORS.lightGray }}
           href="https://github.com/dan-mcm"
         >
           Daniel McMahon

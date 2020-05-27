@@ -13,7 +13,7 @@ import Footer from "./footer"
 import "../styles/default.css"
 
 import blackHex from "../images/what-the-hex-dark.png"
-
+import whiteHex from "../images/what-the-hex.png"
 
 const Layout = ({ children }) => (
   <StaticQuery
@@ -31,7 +31,7 @@ const Layout = ({ children }) => (
         <div
           style={{
             padding: "0 1rem",
-            backgroundImage: `url(${blackHex})`
+            backgroundImage: `url(${whiteHex})`
           }}
         >
           <main>{children}</main>
