@@ -12,7 +12,6 @@ import { StaticQuery, graphql } from "gatsby"
 import Footer from "./footer"
 import "../styles/default.css"
 
-import blackHex from "../images/what-the-hex-dark.png"
 import whiteHex from "../images/what-the-hex.png"
 
 const Layout = ({ children }) => (

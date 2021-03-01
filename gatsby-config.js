@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Daniel McMahon`,
-    description: `Daniel McMahon - Software Engineer, Musician & Educator`,
+    description: `Daniel McMahon - Developer, Musician & Teacher`,
     author: `@dmcmahon`,
     siteUrl: `https://daniel-mcmahon.com`
   },

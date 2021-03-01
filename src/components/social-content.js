@@ -8,13 +8,13 @@ const SocialContent = () => (
       title="Social"
       description="All things Social"
     />
-    <a href="https://www.instagram.com/dan_mcm_/"><Button>Instagram</Button></a>
+    <a href="https://www.linkedin.com/in/dan-mcm/"><Button>LinkedIn</Button></a>
     <br/>
     <br/>
     <a href="https://twitter.com/dan_mcm_"><Button>Twitter</Button></a>
     <br/>
     <br/>
-    <a href="https://www.linkedin.com/in/dan-mcm/"><Button>LinkedIn</Button></a>
+    <a href="https://www.instagram.com/dan_mcm_/"><Button>Instagram</Button></a>
     <br/>
     <br/>
     <a href="https://www.twitch.tv/dan_mcm_"><Button>Twitch</Button></a>

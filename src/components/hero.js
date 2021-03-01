@@ -18,9 +18,6 @@ import github from "../images/socialmedia/iconfinder_Github.png"
 import youtube from "../images/socialmedia/iconfinder_YouTube.png"
 import spotify from "../images/socialmedia/iconfinder_Spotify.png"
 
-// gaming images
-import twitch from "../images/socialmedia/iconfinder_Twitch.png"
-import steam from "../images/socialmedia/iconfinder_steam.png"
 
 import { COLORS } from "../styles/constants"
 
@@ -59,6 +56,46 @@ const Header = ({ siteTitle }) => (
     <p style={{ color: COLORS.lightGray, textAlign: "center", display: "inline-block"}}>
       <a
         style={{textDecoration: "none", display: "inline-block"}}
+        href="mailto:daniel40392@gmail.com"
+      >
+      <img
+        class="icons"
+        src={gmail}
+        alt="gmail"
+      />
+      </a>
+      <a
+        style={{textDecoration: "none", display: "inline-block"}}
+        href="https://www.linkedin.com/in/dan-mcm/"
+      >
+      <img
+        class="icons"
+        src={linkedin}
+        alt="linkedin"
+      />
+      </a>
+      <a
+        style={{textDecoration: "none", display: "inline-block"}}
+        href="https://github.com/dan-mcm"
+      >
+      <img
+        class="icons"
+        src={github}
+        alt="github"
+      />
+      </a>
+      <a
+        style={{textDecoration: "none", display: "inline-block"}}
+        href="https://dev.to/daniel40392"
+      >
+      <img
+        class="icons"
+        src={dev}
+        alt="dev"
+      />
+      </a>
+      <a
+        style={{textDecoration: "none", display: "inline-block"}}
         href="https://www.instagram.com/dan_mcm_/"
       >
         <img
@@ -75,46 +112,6 @@ const Header = ({ siteTitle }) => (
         class="icons"
         src={twitter}
         alt="twitter"
-      />
-      </a>
-      <a
-        style={{textDecoration: "none", display: "inline-block"}}
-        href="https://www.linkedin.com/in/dan-mcm/"
-      >
-      <img
-        class="icons"
-        src={linkedin}
-        alt="linkedin"
-      />
-      </a>
-      <a
-        style={{textDecoration: "none", display: "inline-block"}}
-        href="mailto:daniel40392@gmail.com"
-      >
-      <img
-        class="icons"
-        src={gmail}
-        alt="gmail"
-      />
-      </a>
-      <a
-        style={{textDecoration: "none", display: "inline-block"}}
-        href="https://dev.to/daniel40392"
-      >
-      <img
-        class="icons"
-        src={dev}
-        alt="dev"
-      />
-      </a>
-      <a
-        style={{textDecoration: "none", display: "inline-block"}}
-        href="https://github.com/dan-mcm"
-      >
-      <img
-        class="icons"
-        src={github}
-        alt="github"
       />
       </a>
       <a

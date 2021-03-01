@@ -8,7 +8,7 @@ const SiteContent = () => (
       title="Sites"
       description="All things Website Related"
     />
-    <a href="https://www.tibdawn.com/"><Button>Tiberian Dawn</Button></a>
+    <a href="https://www.tibdawn.com/"><Button>C&C Community Ladder</Button></a>
     <br/>
     <br/>
     <a href="https://music-centre.info/"><Button>Music Centre</Button></a>

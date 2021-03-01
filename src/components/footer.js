@@ -1,6 +1,5 @@
 import React from "react"
 import PropTypes from "prop-types"
-import whiteHex from "../images/what-the-hex.png"
 import blackHex from "../images/what-the-hex-dark.png"
 import { COLORS } from "../styles/constants"
 

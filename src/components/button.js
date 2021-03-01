@@ -1,8 +1,6 @@
 import React from "react"
 
 import { COLORS, BORDER_RADIUS } from "../styles/constants"
-import "../styles/button.css"
-import whiteHex from "../images/what-the-hex.png"
 import blackHex from "../images/what-the-hex-dark.png"
 
 const Button = ({ children }) => (
@@ -14,7 +12,7 @@ const Button = ({ children }) => (
       backgroundImage: `url(${blackHex})`,
       borderRadius: BORDER_RADIUS,
       borderWidth: 0,
-      cursor: "pointer",
+      cursor: "pointer"
     }}
   >
     {children}
